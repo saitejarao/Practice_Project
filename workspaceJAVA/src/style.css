@@ -1,0 +1,99 @@
+.container{
+    width:1300px;
+    margin-top:60px;
+    background-color: beige;
+    
+    height: 1080px;
+}
+nav ul li {
+    background-color: darkmagenta;
+    list-style:none;
+    margin-top: 10px;
+    display: inline-block; 
+    float:left; 
+    
+} 
+nav a{                                    
+    display: block;
+    text-decoration: none;
+    color:white;
+    text-align: center;
+    width: 230px;
+    height: 80px; 
+    padding: 20px 60px 30px 20px;
+    font-size: 30px;
+    
+}
+header
+{
+    background-color: linear-gradient(#E4F2B9,#B7E953);
+    color:#861BBF;
+    text-align: center;
+    padding: 10px;
+    display: block;
+    margin:0 auto;
+    font-size: 40px;
+}
+#div{
+    background-color: white;
+    color:black;
+    width: 60%;
+    float:left;
+    height:200%;
+}
+.section1{
+    background-color: white;
+    color:white;
+    height:900px;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 350px 290px;
+    background-image: url(Images/diner2.jpg);
+    background-size: cover;
+}
+.overview{
+    background-color: white;
+    color: black;
+    height:900px;
+    font-size: 20px;
+    font-weight: bold;
+    background-image: url(Images/diner1.jpg);
+    background-size: cover;
+}
+.Best-seller{
+    background-color: white;
+    color:black;
+    height:900px;
+    font-size: 30px;
+    font-weight: bold;
+    background-image: url(Images/diner1.jpg);
+    background-size: cover;
+}
+.Addcontact{
+    background-color: white;
+    color: black;
+    height:900px;
+    font-size: 25px;
+    font-weight: bold;
+    
+    background-image: url(Images/diner1.jpg);
+    background-size: cover;
+}
+
+.footer{
+    background-color: black;
+    color:white;
+    height: 60px;
+    clear: both;
+    padding: 10px 30px;
+    
+}
+.header caption{
+    float:right;
+    color: #B7E953;
+    font-size: 30px;
+}
+
+.btn{
+    font-size: larger;
+}
